@@ -1,6 +1,6 @@
 #ifndef ALQUERQUE_H
 #define ALQUERQUE_H
-
+//TESTE GIT
 #include <QMainWindow>
 
 QT_BEGIN_NAMESPACE
